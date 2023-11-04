@@ -11,9 +11,9 @@ public class single_d_string {
 		System.out.println("---------------------------");
 		for(int i=name.length-1;i>=0;i--) {
 			System.out.println(i+" -"+name[i]);
-		}
-		}
-		 }
+		  }
+	    }
+     }
 
 
 
